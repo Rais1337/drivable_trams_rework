@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/other/marshrut1"
+	"$halflambert" 1
+}

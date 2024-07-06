@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/tatrat3_030"
+	"$bumpmap" "models/metrostroi_train/tatrat3_030b"
+	"$halflambert" 1
+}

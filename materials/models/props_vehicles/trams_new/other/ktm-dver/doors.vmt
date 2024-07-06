@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/other/ktm-dver/DOORS"
+	"$halflambert" 1
+}

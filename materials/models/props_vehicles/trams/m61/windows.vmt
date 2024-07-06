@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/m61/windows"
+	"$model"       "0"
+	"$translucent" "1"
+}

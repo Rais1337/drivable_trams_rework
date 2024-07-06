@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/tatrat3_001"
+	"$bumpmap" "models/metrostroi_train/tatrat3_001b"
+	"$halflambert" 1
+	$nodecal 1
+	"$colorfix"             "{255 255 255}"
+
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

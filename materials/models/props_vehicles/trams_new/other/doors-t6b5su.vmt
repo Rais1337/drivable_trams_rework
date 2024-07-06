@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/other/doors-t6b5"
+	"$bumpmap" "models/drivtrams/other/doors_b"
+	"$halflambert" 1
+}

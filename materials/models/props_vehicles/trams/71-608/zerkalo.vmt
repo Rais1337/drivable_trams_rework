@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/71-608/zerkalo"
+		"$bumpmap" "models/drivtrams/other/skin_nm"
+	"$envmap" env_cubemap
+	"$translucent" 1
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "5" 
+	"$phongexponent" "55"
+	"$phongfresnelranges" "[4 1 4]"
+	"$surfaceprop" "Glass"
+	"$envmapFresnel" "1"
+	"$envmaptint" "[.31 .31 .31]"
+	"$carpenisenabled" "1"
+	Proxies 
+	{
+		Equals 
+		{
+			srcVar1 $carpenisenabled
+			resultVar	$color 
+
+		}
+	}

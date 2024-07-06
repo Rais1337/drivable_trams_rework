@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/tatra_t6b5su/Sidvodn"
+	"$halflambert" 1
+	"$bumpmap" "models\drivtrams\tatra_t6b5su\sidvodn_b"
+	"$nodecal" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

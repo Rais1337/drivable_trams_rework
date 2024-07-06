@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/tatrat3_005"
+	"$bumpmap" "models/metrostroi_train/tatrat3_005b"
+}

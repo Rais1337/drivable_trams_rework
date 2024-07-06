@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drivtrams/tatra_t6b5su/zerk"
+	"$halflambert" 1
+	"$bumpmap" "models\drivtrams\other\skin_nm"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"2"
+	"$envmapfresnel" "1.7"
+	"$phongfresnelranges" "[.4 .7 4]"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$phongfix" "{20 20 20}"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
